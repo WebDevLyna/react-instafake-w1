@@ -18,6 +18,11 @@ button:hover {
   color: black;
 } */
 
+button.likeContainer {
+    position: relative;
+    left: 450px;
+    bottom: -15px;
+}
 img.likeBtn {
   width: 30px;
   height: 30px;

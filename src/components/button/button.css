@@ -1,0 +1,28 @@
+/* button {
+  color: red;
+  background-color: black;
+  border: 1px solid red;
+  border-radius: 7px;
+  height: 2em;
+  width: 6em;
+  cursor: pointer;
+  font-size: 2em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  transition: ease all 0.3s;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+} */
+
+img.likeBtn {
+  width: 30px;
+  height: 30px;
+}
+
+button:focus {
+  outline: none;
+}
